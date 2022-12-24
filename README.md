@@ -4,7 +4,7 @@
 convert it to real time detection through webcam.
 
 ## For The Organization - Zummit Infolabs Bangalore
-## Team – Vijay Shinde (Project Lead), Krushna Nepade, Shubham Negi and Preeti Rai.
+Team – Vijay Shinde (Project Lead), Krushna Naphade, Shubham Negi and Preeti Rai.
 
 Data Extraction – Cornel University Website (Open Source Dataset),
 It Contains images (3833 Images w.r.t belonging class)
